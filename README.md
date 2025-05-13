@@ -14,11 +14,6 @@
 주로 **React, Next.js, TypeScript**를 사용하며,  
 클린 코드와 사용자 경험을 고려한 개발을 지향합니다.  
 
-📌 **Interests**:  
-- 🎨 **UI/UX**: 사용자 친화적인 인터페이스 제작  
-- ⚡️ **Performance**: 웹 성능 최적화 및 효율적인 렌더링  
-- 🌍 **Frontend Architecture**: 유지보수 가능한 코드 설계
-
 
 📌 **About Me**:  
 + Education : KwangWoon Univ. (Computer Software)
